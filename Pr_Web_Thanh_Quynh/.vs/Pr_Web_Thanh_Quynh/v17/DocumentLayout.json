@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|c:\\1.project_of thanh\\th_ltw\\pr_web_thanh_quynh\\pr_web_thanh_quynh\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|solutionrelative:pr_web_thanh_quynh\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|c:\\1.project_of thanh\\th_ltw\\pr_web_thanh_quynh\\pr_web_thanh_quynh\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|solutionrelative:pr_web_thanh_quynh\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|c:\\1.project_of thanh\\th_ltw\\pr_web_thanh_quynh\\pr_web_thanh_quynh\\areas\\admin\\views\\newarticle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|solutionrelative:pr_web_thanh_quynh\\areas\\admin\\views\\newarticle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|c:\\1.project_of thanh\\th_ltw\\pr_web_thanh_quynh\\pr_web_thanh_quynh\\areas\\admin\\controllers\\newarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|solutionrelative:pr_web_thanh_quynh\\areas\\admin\\controllers\\newarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|c:\\1.project_of thanh\\th_ltw\\pr_web_thanh_quynh\\pr_web_thanh_quynh\\content\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA7FFCD9-9938-4434-9902-D35FD4019609}|Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh.csproj|solutionrelative:pr_web_thanh_quynh\\content\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pr_Web_Thanh_Quynh\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Pr_Web_Thanh_Quynh\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAIwA8BAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T14:27:28.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Pr_Web_Thanh_Quynh\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Pr_Web_Thanh_Quynh\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:27:19.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Areas\\Admin\\Views\\NewArticle\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pr_Web_Thanh_Quynh\\Areas\\Admin\\Views\\NewArticle\\Index.cshtml",
+              "ToolTip": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Areas\\Admin\\Views\\NewArticle\\Index.cshtml",
+              "RelativeToolTip": "Pr_Web_Thanh_Quynh\\Areas\\Admin\\Views\\NewArticle\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T14:09:40.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewArticleController.cs",
+              "DocumentMoniker": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Areas\\Admin\\Controllers\\NewArticleController.cs",
+              "RelativeDocumentMoniker": "Pr_Web_Thanh_Quynh\\Areas\\Admin\\Controllers\\NewArticleController.cs",
+              "ToolTip": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Areas\\Admin\\Controllers\\NewArticleController.cs",
+              "RelativeToolTip": "Pr_Web_Thanh_Quynh\\Areas\\Admin\\Controllers\\NewArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:09:30.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "all.min.css",
+              "DocumentMoniker": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Content\\css\\all.min.css",
+              "RelativeDocumentMoniker": "Pr_Web_Thanh_Quynh\\Content\\css\\all.min.css",
+              "ToolTip": "C:\\1.PROJECT_OF THANH\\TH_LTW\\Pr_Web_Thanh_Quynh\\Pr_Web_Thanh_Quynh\\Content\\css\\all.min.css",
+              "RelativeToolTip": "Pr_Web_Thanh_Quynh\\Content\\css\\all.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABS5QAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-15T13:43:28.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
