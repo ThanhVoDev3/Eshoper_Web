@@ -23,10 +23,10 @@
                     <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
                 </li>
                 <li class="nav-item d-none d-sm-inline-block">
-                    <a href="../../index3.html" class="nav-link">Home</a>
+                    <a href="@Url.Action("Index", "Dashboard")" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item d-none d-sm-inline-block">
-                    <a href="#" class="nav-link">Contact</a>
+                    <a href="@Url.Action("Index","Contact_Ad")" class="nav-link">Contact</a>
                 </li>
             </ul>
 
@@ -157,7 +157,7 @@
             <!-- Brand Logo -->
             <a href="#" class="brand-link">
                 <img src="~/Content/images/User/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-                <span class="brand-text font-weight-light">AdminLTE 3</span>
+                <span class="brand-text font-weight-light">Admin Eshoper</span>
             </a>
 
             <!-- Sidebar -->
@@ -199,7 +199,7 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="@Url.Action("Index", "NewArticle")" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Đăng Bài Viết  <span class="right badge badge-danger">New</span></p>
                                     </a>
@@ -225,13 +225,7 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="#l" class="nav-link">
-                                        <i class="far fa-circle nav-icon"></i>
-                                        <p>Chủng Loại</p>
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="@Url.Action("Index", "NewProducts")" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Sản Phẩm Mới</p>
                                     </a>
@@ -261,7 +255,7 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="../charts/flot.html" class="nav-link">
+                                    <a href="#" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Danh Sách Khách Hàng</p>
                                     </a>
@@ -279,7 +273,7 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="../UI/general.html" class="nav-link">
+                                    <a href="@Url.Action("Index", "Orders")" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Đơn Hàng NEW</p>
                                     </a>

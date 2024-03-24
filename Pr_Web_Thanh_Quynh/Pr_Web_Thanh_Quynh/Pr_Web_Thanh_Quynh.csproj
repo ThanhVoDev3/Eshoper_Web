@@ -92,6 +92,7 @@
     <Content Include="Content\css\all.min.css" />
     <Content Include="Content\css\animate.css" />
     <Content Include="Content\css\bootstrap.min.css" />
+    <Content Include="Content\css\Contact\Contact.css" />
     <Content Include="Content\css\font-awesome.min.css" />
     <Content Include="Content\css\icheck-bootstrap.min.css" />
     <Content Include="Content\css\main.css" />
@@ -165,6 +166,7 @@
     <Content Include="Content\images\User\avatar.png" />
     <Content Include="Content\images\User\avatar2.png" />
     <Content Include="Content\images\User\avatar4.png" />
+    <Content Include="Content\images\User\Thanh.jpg" />
     <Content Include="Content\images\User\user2-160x160.jpg" />
     <Content Include="Content\images\User\user8-128x128.jpg" />
     <Content Include="Content\Site.css" />
@@ -193,8 +195,10 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\Contact_AdController.cs" />
     <Compile Include="Areas\Admin\Controllers\DashboardController.cs" />
     <Compile Include="Areas\Admin\Controllers\NewArticleController.cs" />
+    <Compile Include="Areas\Admin\Controllers\NewProductsController.cs" />
     <Compile Include="Areas\Admin\Controllers\OrdersController.cs" />
     <Compile Include="Controllers\BlogController.cs" />
     <Compile Include="Controllers\BlogSingleController.cs" />
@@ -232,6 +236,8 @@
     <Content Include="Content\fonts\fa-solid-900.woff2" />
     <Content Include="Areas\Admin\Views\NewArticle\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Orders\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\NewProducts\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Contact_Ad\Index.cshtml" />
     <None Include="packages.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />

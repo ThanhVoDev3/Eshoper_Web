@@ -22,7 +22,7 @@ namespace Pr_Web_Thanh_Quynh.Controllers
         {
             bool isAuthentic = (Acc != null && Pass != null && Acc.ToLower().Equals("admin") && Pass.Equals("123456"));
             if (isAuthentic)
-                return View ("~/Areas/Admin/Views/Dashboard/Index.cshtml");
+                return RedirectToAction("Index", "Dashboard", new { area = "Admin" });
             return View();
         }
     }
